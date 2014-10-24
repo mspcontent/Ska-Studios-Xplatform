@@ -5,7 +5,7 @@
 ----------
 ### Objective
 
-This lab goes through the process of packaging up the (insert the application and link to walk through) as an app store installable package for (PICK A PLATFORM). With these tools you can write an application that works for iOS, Andriod and Windows Phone/8.
+This lab goes through the process of packaging up the [Ska Studios](http://ska-studios.com/) web applciation as an app store installable package. With these tools you can write an application that works for iOS, Andriod and Windows Phone/8.
 
 By the end of this lab you will be able to:
 
